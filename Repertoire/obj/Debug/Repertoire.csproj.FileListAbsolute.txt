@@ -1,0 +1,8 @@
+c:\users\mksj\documents\visual studio 2012\Projects\Repertoire\Repertoire\bin\Debug\Repertoire.exe.config
+c:\users\mksj\documents\visual studio 2012\Projects\Repertoire\Repertoire\bin\Debug\Repertoire.exe
+c:\users\mksj\documents\visual studio 2012\Projects\Repertoire\Repertoire\bin\Debug\Repertoire.pdb
+c:\users\mksj\documents\visual studio 2012\Projects\Repertoire\Repertoire\obj\Debug\Repertoire.Properties.Resources.resources
+c:\users\mksj\documents\visual studio 2012\Projects\Repertoire\Repertoire\obj\Debug\Repertoire.csproj.GenerateResource.Cache
+c:\users\mksj\documents\visual studio 2012\Projects\Repertoire\Repertoire\obj\Debug\Repertoire.exe
+c:\users\mksj\documents\visual studio 2012\Projects\Repertoire\Repertoire\obj\Debug\Repertoire.pdb
+c:\users\mksj\documents\visual studio 2012\Projects\Repertoire\Repertoire\obj\Debug\Repertoire.MonRepertoire.resources

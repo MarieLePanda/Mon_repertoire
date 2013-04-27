@@ -1,4 +1,0 @@
-c:\users\mksj\documents\visual studio 2012\Projects\Repertoire2\Repertoire2\bin\Debug\Repertoire2.exe.config
-c:\users\mksj\documents\visual studio 2012\Projects\Repertoire2\Repertoire2\obj\Debug\Repertoire2.Properties.Resources.resources
-c:\users\mksj\documents\visual studio 2012\Projects\Repertoire2\Repertoire2\obj\Debug\Repertoire2.csproj.GenerateResource.Cache
-C:\Users\MKSJ\Documents\Visual Studio 2012\Projects\Repertoire2\Repertoire2\obj\Debug\Repertoire2.csprojResolveAssemblyReference.cache
